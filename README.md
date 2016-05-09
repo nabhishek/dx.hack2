@@ -10,7 +10,7 @@ How to run run this-
 -> Create an iot hub on http://portal.azure.com and replace the connetion string in the program.cs file in this solution. you will have to create a new device using either device explorer or your code. details here: https://azure.microsoft.com/en-in/documentation/articles/iot-hub-csharp-csharp-getstarted/
 
 
-#farmvilla-RP3-device
+#farmvilla-RP2-device
 Contains the UWP code to interact with the FEZ Hat and read temp value. Posts it on Azure iot hub. Getting started details: https://azure.microsoft.com/en-in/documentation/articles/iot-hub-csharp-csharp-getstarted/
 
 How to run this-
