@@ -1,0 +1,2 @@
+C:\Users\ashisa\Documents\Visual Studio 2015\Projects\MyFarm\MyFarm\MyFarm.Windows\MyFarm.Windows.csproj;x86
+C:\Users\ashisa\Documents\Visual Studio 2015\Projects\MyFarm\MyFarm\MyFarm\MyFarm.csproj;neutral

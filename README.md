@@ -17,3 +17,9 @@ How to run this-
 -> You would require VS 2015 with Azure SDK and UWP tools installed + RP2 with Windows IoT Core + FEZ Hat 
 -> in the solution replace the connection details as commented in the MainPage.xaml.cs file.
 
+#MyFarm Xamarin App
+Contains the Xamarin app solution. Uses hard-coded values to display the color-coded status along with the crop name and humidity information. Required code is present in the solution as well to fetch the information from the Azure backend.
+
+How to run this -
+-> Open MainPage.xaml.cs in MyFarm (Portable) project and add the correct URL to fetch the data
+-> Bind this information to the listview using the FarmData class

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyFarm.MainPage">
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness"
+                iOS="20, 40, 20, 20"
+                Android="20, 20, 20, 20"
+                WinPhone="10, 10, 10, 10" />
+  </ContentPage.Padding>
+  <ContentPage.Content>
+    <Grid>
+      <Grid.RowDefinitions>
+        <RowDefinition Height="60"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="60"/>
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*"/>
+        <ColumnDefinition Width="2*"/>
+        <ColumnDefinition Width="*"/>
+      </Grid.ColumnDefinitions>
+
+      <Label Text="MyFarm" FontSize="36" Grid.Column="0" Grid.ColumnSpan="3" HorizontalTextAlignment="Center"/>
+
+      <ListView x:Name="listView" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="1">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ViewCell>
+              <Grid BackgroundColor="White" Padding="2" >
+                <StackLayout Orientation="Horizontal" Spacing="5" Padding="10" BackgroundColor="{Binding Status}">
+                  <StackLayout HorizontalOptions="StartAndExpand">
+                    <Label Text="{Binding Crop_name}" FontSize="18" HorizontalTextAlignment="Start"/>
+                  </StackLayout>
+                  <StackLayout Orientation="Vertical">
+                    <Label Grid.Column="1" Text="Humidity" FontSize="9" HorizontalTextAlignment="End" />
+                    <Label Grid.Column="2" Text="{Binding Humidity}" FontSize="16" HorizontalTextAlignment="End" />
+                  </StackLayout>
+                </StackLayout>
+              </Grid>
+            </ViewCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+
+      <BoxView BackgroundColor="Green" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="3"></BoxView>
+      <StackLayout BackgroundColor="Green" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="3" Spacing="0" Padding="0">
+        <Label x:Name="cityLabel" Text="{Binding City}" FontSize="18" HorizontalTextAlignment="Center" TextColor="White"/>
+        <Label x:Name="weatherDescLabel" Text="{Binding Description}" FontSize="12" HorizontalTextAlignment="Center" TextColor="White"/>
+      </StackLayout>
+
+
+
+    </Grid>
+
+  </ContentPage.Content>
+</ContentPage>

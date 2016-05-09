@@ -1,0 +1,2 @@
+c:\users\ashisa\documents\visual studio 2015\Projects\MyFarm\MyFarm\MyFarm.WinPhone\MyFarm.WinPhone.csproj;neutral
+c:\users\ashisa\documents\visual studio 2015\Projects\MyFarm\MyFarm\MyFarm\MyFarm.csproj;neutral

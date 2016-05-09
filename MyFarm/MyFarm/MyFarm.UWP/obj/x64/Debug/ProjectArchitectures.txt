@@ -1,0 +1,2 @@
+c:\users\ashisa\documents\visual studio 2015\Projects\MyFarm\MyFarm\MyFarm.UWP\MyFarm.UWP.csproj;x64
+c:\users\ashisa\documents\visual studio 2015\Projects\MyFarm\MyFarm\MyFarm\MyFarm.csproj;neutral
