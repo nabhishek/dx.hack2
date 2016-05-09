@@ -1,4 +1,4 @@
-# dx.hack2
+# dx.hack2 - Project F.R.I.E.N.D.S
 This contains the code for the IoT solution for farmers that we did for the HACK. //to be updated
 
 
