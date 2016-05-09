@@ -12,9 +12,11 @@ namespace farmvilla_device_emulation
     class Program
     {
         static DeviceClient deviceClient;
-        static string iotHubUri = "farmvilla-hub.azure-devices.net";
-        static string deviceKey = "pLx1BPJQ9IW4R4TCrOCfOCJu75WFxKj9zGfaBBfkOCQ=";
-       
+        //static string iotHubUri = "farmvilla-hub.azure-devices.net"; //Add your iot hub uri here
+        static string iotHubUri = "iot hub uri here";
+        //static string deviceKey = "pLx1BPJQ9IW4R4TCrOCfOCJu75WFxGfaBBfkOCQ="; //add device key here
+        static string deviceKey = "device key here";
+
 
         static void Main(string[] args)
         {

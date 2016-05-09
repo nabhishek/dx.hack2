@@ -1,0 +1,1 @@
+"/t:WindowsIoTCorePi2FezHat.ConnectTheDotsSensor,WindowsIoTCorePi2FezHat,json"

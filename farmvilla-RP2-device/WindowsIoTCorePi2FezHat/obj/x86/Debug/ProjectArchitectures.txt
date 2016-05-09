@@ -1,0 +1,1 @@
+C:\GitHub\connectthedots-IoT-Field-Labs\Devices\DirectlyConnectedDevices\WindowsIoTCorePi2FezHat-IoTHubs\Code\WindowsIoTCorePi2FezHat\End\WindowsIoTCorePi2FezHat\WindowsIoTCorePi2FezHat.csproj;x86

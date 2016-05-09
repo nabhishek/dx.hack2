@@ -1,0 +1,9 @@
+/out:"C:\Code\RP2-Solution\WindowsIoTCorePi2FezHat\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Code\RP2-Solution\WindowsIoTCorePi2FezHat\obj\ARM\Release\ilc\intermediate\\"
+/ref:"C:\Code\RP2-Solution\WindowsIoTCorePi2FezHat\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"C:\Code\RP2-Solution\WindowsIoTCorePi2FezHat\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Private\\"
+/ref:"C:\Code\RP2-Solution\WindowsIoTCorePi2FezHat\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Code\RP2-Solution\WindowsIoTCorePi2FezHat\obj\ARM\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
+"@C:\Code\RP2-Solution\WindowsIoTCorePi2FezHat\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\ComputedSerializationInput.txt"
