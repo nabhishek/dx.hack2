@@ -1,0 +1,25 @@
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\farmvilla-device-emulation.exe.config
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\farmvilla-device-emulation.exe
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\farmvilla-device-emulation.pdb
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\DotNetty.Buffers.dll
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\DotNetty.Codecs.dll
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\DotNetty.Codecs.Mqtt.dll
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\DotNetty.Common.dll
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\DotNetty.Handlers.dll
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\DotNetty.Transport.dll
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\Microsoft.Azure.Amqp.dll
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\Microsoft.Azure.Devices.Client.dll
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\Mono.Security.dll
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\Newtonsoft.Json.dll
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\PCLCrypto.dll
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\Validation.dll
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\Microsoft.Azure.Amqp.xml
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\Newtonsoft.Json.xml
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\PCLCrypto.xml
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\Validation.xml
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\obj\Debug\farmvilla-device-emulation.exe
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\obj\Debug\farmvilla-device-emulation.pdb
+c:\users\abnarain\documents\visual studio 2015\Projects\farmvilla-device-emulation\farmvilla-device-emulation\obj\Debug\farmvilla-device-emulation.csprojResolveAssemblyReference.cache
+C:\GitHub\dx.hack2\farmvilla-device-emulation\farmvilla-device-emulation\bin\Debug\farmvilla-device-emulation.exe.config
+C:\GitHub\dx.hack2\farmvilla-device-emulation\farmvilla-device-emulation\obj\Debug\farmvilla-device-emulation.exe
+C:\GitHub\dx.hack2\farmvilla-device-emulation\farmvilla-device-emulation\obj\Debug\farmvilla-device-emulation.pdb
