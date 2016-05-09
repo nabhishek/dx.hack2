@@ -1,6 +1,11 @@
 # dx.hack2 - Project F.R.I.E.N.D.S
 This contains the code for the IoT solution for farmers that we did for the HACK. //to be updated
 
+Architecture:
+![alt tag](https://raw.githubusercontent.com/nabhishek/dx.hack2/master/images/architecture.PNG)
+
+Reports:
+![alt tag](https://raw.githubusercontent.com/nabhishek/dx.hack2/master/images/reports.PNG)
 
 #farmvilla-device-emulation 
 Contains the code running as webjobs or as console app from any Windows machine to emulate posting sensor value periodically to the iot hub. for the hack we emulated multiple such devices and used 1 real device where the UWP code was runing. You can find the device code in farmvill-RP2-device folder
