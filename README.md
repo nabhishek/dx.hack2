@@ -1,7 +1,20 @@
 # dx.hack2 - Project F.R.I.E.N.D.S
-This contains the code for the IoT solution for farmers that we did for the HACK. //to be updated
 
-Architecture:
+#Scenario and Problem Domain
+1. In most part of rural India, water & electricity is a scarce resource. In most places, electricity is made available with a set time table for the month. They are usually provided for 2 hours during the day and 2 hours in the night. This is the true state of affairs on the ground for farmers. 
+
+2. Second big issue is of man power. A typical farm land spread across 10 acre area will have 1 or 2 individuals as care takers and their daily job is to ensure they water the farm land. Piping is typically done at strategic locations and culverts made to ensure flow of water to the plots which require watering. Which plot to water on a specific day is purely basis their intuition of how wet/moist the land is. 
+
+3. So decision to divert water to a specific plot depends on two factors
+    a. Type of Crop
+    b. Moisture level in that plot
+
+4. At times they may end up diverting water to an area which is already moist enough to last for a few days. In addition, they also have an opportunity to store water if they feel the crops do not need watering on specific days. 
+
+5. Imagine if they water the plots and it ends up raining in the next few hours. Scenarios like these are common and there is no scientific means for their to address this.
+
+
+#Architecture:
 ![alt tag](https://raw.githubusercontent.com/nabhishek/dx.hack2/master/images/architecture.PNG)
 
 Reports:
