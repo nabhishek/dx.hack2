@@ -43,3 +43,8 @@ How to run this -
 -> Open MainPage.xaml.cs in MyFarm (Portable) project and add the correct URL to fetch the data
 
 -> Bind this information to the listview using the FarmData class
+
+=========================
+#ML model for Humidity prediction -
+
+We used "Two Class decision forest" classification model to predict the humidity status for specific crop at certain day of the month. Used available historical datasets for Bangalore ( 2014 & 2015 ) as input.   
